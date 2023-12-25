@@ -9,7 +9,7 @@ export const SITE_METADATA = {
     description: 'A blog created with Astro and Tailwind.css',
     language: 'en-us',
     theme: 'system', // Options: system, light, dark, Does not work yet
-    siteUrl: 'blog.akhileshg.com',
+    siteUrl: 'https://blog.akhileshg.com/',
     siteRepo: 'https://github.com/wanoo21/tailwind-astro-starting-blog',
     siteLogo: '/static/images/logo.png',
     socialBanner: '/static/images/twitter-card.png',
